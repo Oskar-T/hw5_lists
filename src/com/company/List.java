@@ -36,7 +36,7 @@ public class List <T>
 
     public void addLast (T element)
     {
-        add(size-1, element);
+        add(size, element);
 
     }
 
